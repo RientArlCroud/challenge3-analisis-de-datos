@@ -52,7 +52,7 @@ Todas las gráficas y tablas finales utilizadas en el informe se encuentran disp
 
 Ejemplo:
 
-![Churn por Antigüedad](assets/figura_06_tenure_churn_table.png)
+![Churn por Antigüedad](assets/figura_07_churn_rate_tenure.png)
 
 ---
 
