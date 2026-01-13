@@ -13,11 +13,11 @@ Analizar el comportamiento de evasión de clientes (*churn*) a partir de variabl
 ## 📁 Estructura del repositorio
 
 📦 churn-analysis-telecom  
-├── data/          # Dataset original  
-├── notebooks/     # Notebook principal de análisis  
+├── data/          # Dataset original (TelecomX_Data.json)  
+├── notebooks/     # Notebook principal de análisis (Challenge_3_Análisis_de_Datos.ipynb) 
 ├── assets/        # Gráficos y tablas exportadas como imágenes  
 ├── README.md  
-└── requirements.txt
+└── TelecomX_diccionario.md # Descripción de la columnas del Dataset
 
 ---
 
